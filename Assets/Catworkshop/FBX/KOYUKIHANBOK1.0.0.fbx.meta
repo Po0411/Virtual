@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: a4a2be604e0d4eb4ba383b6aa74b003a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_end
+    100006: breast_L
+    100008: breast_L.001
+    100010: breast_L.001_end
+    100012: breast_L.001_end_end
+    100014: breast_R
+    100016: breast_R.001
+    100018: breast_R.001_end
+    100020: breast_R.001_end_end
+    100022: Chest
+    100024: elbow_L
+    100026: elbow_L_end
+    100028: elbow_L_end_end
+    100030: elbow_R
+    100032: elbow_R_end
+    100034: elbow_R_end_end
+    100036: Hairpin
+    100038: hairpin
+    100040: hairpin 1
+    100042: hairpin.001
+    100044: hairpin.002
+    100046: hairpin.003
+    100048: hairpin.004
+    100050: hairpin.004_end
+    100052: Hanbok ribbon
+    100054: hanbok shoose
+    100056: hanbokskirt
+    100058: Hips
+    100060: Hips_L.001
+    100062: Hips_L.002
+    100064: Hips_L.002_end
+    100066: Hips_L.002_end_end
+    100068: Hips_R.001
+    100070: Hips_R.002
+    100072: Hips_R.002_end
+    100074: Hips_R.002_end_end
+    100076: Jokduri
+    100078: jokduri bone
+    100080: jugori
+    100082: //RootNode
+    100084: Left ankle
+    100086: Left ankle_end
+    100088: Left ankle_end_end
+    100090: Left arm
+    100092: Left elbow
+    100094: Left knee
+    100096: Left leg
+    100098: Left shoulder
+    100100: Left wrist
+    100102: Left wrist_end
+    100104: ribbon
+    100106: ribbon.001
+    100108: ribbon.002
+    100110: ribbon.003
+    100112: ribbon.004
+    100114: ribbon.005
+    100116: ribbon.005_end
+    100118: ribbon.005_end_end
+    100120: ribbon.005_end_end_end
+    100122: Right ankle
+    100124: Right ankle_end
+    100126: Right ankle_end_end
+    100128: Right arm
+    100130: Right elbow
+    100132: Right knee
+    100134: Right leg
+    100136: Right shoulder
+    100138: Right wrist
+    100140: Right wrist_end
+    100142: Skirt_0
+    100144: Skirt_0.001
+    100146: Skirt_0.003
+    100148: Skirt_0.003_end
+    100150: Skirt_0.003_end_end
+    100152: Skirt_0.003_end_end_end
+    100154: Skirt_1L
+    100156: Skirt_1L.001
+    100158: Skirt_1L.002
+    100160: Skirt_1L.003_end
+    100162: Skirt_1L.003_end_end
+    100164: Skirt_1L.003_end_end_end
+    100166: Skirt_1R
+    100168: Skirt_1R.001
+    100170: Skirt_1R.002
+    100172: Skirt_1R.003_end
+    100174: Skirt_1R.003_end_end
+    100176: Skirt_1R.003_end_end_end
+    100178: Skirt_2L
+    100180: Skirt_2L.001
+    100182: Skirt_2L.002
+    100184: Skirt_2L.003_end
+    100186: Skirt_2L.003_end_end
+    100188: Skirt_2L.003_end_end_end
+    100190: Skirt_2R
+    100192: Skirt_2R.001
+    100194: Skirt_2R.002
+    100196: Skirt_2R.003_end
+    100198: Skirt_2R.003_end_end
+    100200: Skirt_2R.003_end_end_end
+    100202: Skirt_3L
+    100204: Skirt_3L.001
+    100206: Skirt_3L.002
+    100208: Skirt_3L.003_end
+    100210: Skirt_3L.003_end_end
+    100212: Skirt_3L.003_end_end_end
+    100214: Skirt_3R
+    100216: Skirt_3R.001
+    100218: Skirt_3R.002
+    100220: Skirt_3R.003_end
+    100222: Skirt_3R.003_end_end
+    100224: Skirt_3R.003_end_end_end
+    100226: Skirt_4
+    100228: Skirt_4.001
+    100230: Skirt_4.002
+    100232: Skirt_4.003_end
+    100234: Skirt_4.003_end_end
+    100236: Skirt_4.003_end_end_end
+    100238: Spine
+    400000: Armature
+    400002: Bone
+    400004: Bone_end
+    400006: breast_L
+    400008: breast_L.001
+    400010: breast_L.001_end
+    400012: breast_L.001_end_end
+    400014: breast_R
+    400016: breast_R.001
+    400018: breast_R.001_end
+    400020: breast_R.001_end_end
+    400022: Chest
+    400024: elbow_L
+    400026: elbow_L_end
+    400028: elbow_L_end_end
+    400030: elbow_R
+    400032: elbow_R_end
+    400034: elbow_R_end_end
+    400036: Hairpin
+    400038: hairpin
+    400040: hairpin 1
+    400042: hairpin.001
+    400044: hairpin.002
+    400046: hairpin.003
+    400048: hairpin.004
+    400050: hairpin.004_end
+    400052: Hanbok ribbon
+    400054: hanbok shoose
+    400056: hanbokskirt
+    400058: Hips
+    400060: Hips_L.001
+    400062: Hips_L.002
+    400064: Hips_L.002_end
+    400066: Hips_L.002_end_end
+    400068: Hips_R.001
+    400070: Hips_R.002
+    400072: Hips_R.002_end
+    400074: Hips_R.002_end_end
+    400076: Jokduri
+    400078: jokduri bone
+    400080: jugori
+    400082: //RootNode
+    400084: Left ankle
+    400086: Left ankle_end
+    400088: Left ankle_end_end
+    400090: Left arm
+    400092: Left elbow
+    400094: Left knee
+    400096: Left leg
+    400098: Left shoulder
+    400100: Left wrist
+    400102: Left wrist_end
+    400104: ribbon
+    400106: ribbon.001
+    400108: ribbon.002
+    400110: ribbon.003
+    400112: ribbon.004
+    400114: ribbon.005
+    400116: ribbon.005_end
+    400118: ribbon.005_end_end
+    400120: ribbon.005_end_end_end
+    400122: Right ankle
+    400124: Right ankle_end
+    400126: Right ankle_end_end
+    400128: Right arm
+    400130: Right elbow
+    400132: Right knee
+    400134: Right leg
+    400136: Right shoulder
+    400138: Right wrist
+    400140: Right wrist_end
+    400142: Skirt_0
+    400144: Skirt_0.001
+    400146: Skirt_0.003
+    400148: Skirt_0.003_end
+    400150: Skirt_0.003_end_end
+    400152: Skirt_0.003_end_end_end
+    400154: Skirt_1L
+    400156: Skirt_1L.001
+    400158: Skirt_1L.002
+    400160: Skirt_1L.003_end
+    400162: Skirt_1L.003_end_end
+    400164: Skirt_1L.003_end_end_end
+    400166: Skirt_1R
+    400168: Skirt_1R.001
+    400170: Skirt_1R.002
+    400172: Skirt_1R.003_end
+    400174: Skirt_1R.003_end_end
+    400176: Skirt_1R.003_end_end_end
+    400178: Skirt_2L
+    400180: Skirt_2L.001
+    400182: Skirt_2L.002
+    400184: Skirt_2L.003_end
+    400186: Skirt_2L.003_end_end
+    400188: Skirt_2L.003_end_end_end
+    400190: Skirt_2R
+    400192: Skirt_2R.001
+    400194: Skirt_2R.002
+    400196: Skirt_2R.003_end
+    400198: Skirt_2R.003_end_end
+    400200: Skirt_2R.003_end_end_end
+    400202: Skirt_3L
+    400204: Skirt_3L.001
+    400206: Skirt_3L.002
+    400208: Skirt_3L.003_end
+    400210: Skirt_3L.003_end_end
+    400212: Skirt_3L.003_end_end_end
+    400214: Skirt_3R
+    400216: Skirt_3R.001
+    400218: Skirt_3R.002
+    400220: Skirt_3R.003_end
+    400222: Skirt_3R.003_end_end
+    400224: Skirt_3R.003_end_end_end
+    400226: Skirt_4
+    400228: Skirt_4.001
+    400230: Skirt_4.002
+    400232: Skirt_4.003_end
+    400234: Skirt_4.003_end_end
+    400236: Skirt_4.003_end_end_end
+    400238: Spine
+    2100000: hanbok shoose
+    2100002: jokduri
+    2100004: tangerine
+    2100006: flower1
+    2100008: flower2
+    2100010: Hairpin
+    2100012: hanbokskirt.001
+    2100014: jugori.001
+    2100016: Hanbok pus.003
+    4300000: hanbok shoose
+    4300002: Jokduri
+    4300004: Hairpin
+    4300006: hanbokskirt
+    4300008: jugori
+    4300010: Hanbok ribbon
+    9500000: //RootNode
+    13700000: Hairpin
+    13700002: Hanbok ribbon
+    13700004: hanbok shoose
+    13700006: hanbokskirt
+    13700008: Jokduri
+    13700010: jugori
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
