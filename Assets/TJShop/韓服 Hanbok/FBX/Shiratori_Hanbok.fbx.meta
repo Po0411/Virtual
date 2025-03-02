@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: ca6e7f26153d62749916c13b720e736a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: B_Hair1.001
+    100004: B_Hair1.002
+    100006: B_Hair1.003
+    100008: B_Hair1.003_end
+    100010: B_Hair2.001
+    100012: B_Hair2.002
+    100014: B_Hair2.003
+    100016: B_Hair2.004
+    100018: B_Hair2.004_end
+    100020: BL_Hair1.001
+    100022: BL_Hair1.002
+    100024: BL_Hair1.003
+    100026: BL_Hair1.003_end
+    100028: BL_Hair2.001
+    100030: BL_Hair2.002
+    100032: BL_Hair2.003
+    100034: BL_Hair2.003_end
+    100036: BLayer Skirt_L1.001
+    100038: BLayer Skirt_L1.002
+    100040: BLayer Skirt_L1.003
+    100042: BLayer Skirt_L1.004
+    100044: BLayer Skirt_L1.005
+    100046: BLayer Skirt_L1.005_end
+    100048: BLayer Skirt_L2.001
+    100050: BLayer Skirt_L2.002
+    100052: BLayer Skirt_L2.003
+    100054: BLayer Skirt_L2.004
+    100056: BLayer Skirt_L2.005
+    100058: BLayer Skirt_L2.005_end
+    100060: BLayer Skirt_R1.001
+    100062: BLayer Skirt_R1.002
+    100064: BLayer Skirt_R1.003
+    100066: BLayer Skirt_R1.004
+    100068: BLayer Skirt_R1.005
+    100070: BLayer Skirt_R1.005_end
+    100072: BLayer Skirt_R2.001
+    100074: BLayer Skirt_R2.002
+    100076: BLayer Skirt_R2.003
+    100078: BLayer Skirt_R2.004
+    100080: BLayer Skirt_R2.005
+    100082: BLayer Skirt_R2.005_end
+    100084: BR_Hair1.001
+    100086: BR_Hair1.002
+    100088: BR_Hair1.003
+    100090: BR_Hair1.003_end
+    100092: BR_Hair2.001
+    100094: BR_Hair2.002
+    100096: BR_Hair2.003
+    100098: BR_Hair2.003_end
+    100100: BSkirt_L1.001
+    100102: BSkirt_L1.002
+    100104: BSkirt_L1.003
+    100106: BSkirt_L1.004
+    100108: BSkirt_L1.005
+    100110: BSkirt_L1.005_end
+    100112: BSkirt_L2.001
+    100114: BSkirt_L2.002
+    100116: BSkirt_L2.003
+    100118: BSkirt_L2.004
+    100120: BSkirt_L2.005
+    100122: BSkirt_L2.005_end
+    100124: BSkirt_R1.001
+    100126: BSkirt_R1.002
+    100128: BSkirt_R1.003
+    100130: BSkirt_R1.004
+    100132: BSkirt_R1.005
+    100134: BSkirt_R1.005_end
+    100136: BSkirt_R2.001
+    100138: BSkirt_R2.002
+    100140: BSkirt_R2.003
+    100142: BSkirt_R2.004
+    100144: BSkirt_R2.005
+    100146: BSkirt_R2.005_end
+    100148: Chest
+    100150: clothes
+    100152: Coat
+    100154: coat arm_L.001
+    100156: coat arm_L.002
+    100158: coat arm_L.003
+    100160: coat arm_L.003_end
+    100162: coat arm_R.001
+    100164: coat arm_R.002
+    100166: coat arm_R.003
+    100168: coat arm_R.003_end
+    100170: coat Chest_L.001
+    100172: coat Chest_L.002
+    100174: coat Chest_L.003
+    100176: coat Chest_L.004
+    100178: coat Chest_L.004_end
+    100180: coat Chest_R.001
+    100182: coat Chest_R.002
+    100184: coat Chest_R.003
+    100186: coat Chest_R.004
+    100188: coat Chest_R.004_end
+    100190: coat Lower Arm2_L.001
+    100192: coat Lower Arm2_L.002
+    100194: coat Lower Arm2_L.003
+    100196: coat Lower Arm2_L.004
+    100198: coat Lower Arm2_L.004_end
+    100200: coat Lower Arm2_R.001
+    100202: coat Lower Arm2_R.002
+    100204: coat Lower Arm2_R.003
+    100206: coat Lower Arm2_R.004
+    100208: coat Lower Arm2_R.004_end
+    100210: coat Lower Arm_L.001
+    100212: coat Lower Arm_L.002
+    100214: coat Lower Arm_L.003
+    100216: coat Lower Arm_L.004
+    100218: coat Lower Arm_L.005
+    100220: coat Lower Arm_L.005_end
+    100222: coat Lower Arm_R.001
+    100224: coat Lower Arm_R.002
+    100226: coat Lower Arm_R.003
+    100228: coat Lower Arm_R.004
+    100230: coat Lower Arm_R.005
+    100232: coat Lower Arm_R.005_end
+    100234: coat Upper Arm_L.001
+    100236: coat Upper Arm_L.002
+    100238: coat Upper Arm_L.003
+    100240: coat Upper Arm_L.004
+    100242: coat Upper Arm_L.005
+    100244: coat Upper Arm_L.005_end
+    100246: coat Upper Arm_R.001
+    100248: coat Upper Arm_R.002
+    100250: coat Upper Arm_R.003
+    100252: coat Upper Arm_R.004
+    100254: coat Upper Arm_R.005
+    100256: coat Upper Arm_R.005_end
+    100258: FHair_1.001
+    100260: FHair_1.002
+    100262: FHair_1.002_end
+    100264: FHair_2.001
+    100266: FHair_2.002
+    100268: FHair_2.002_end
+    100270: Foot_L
+    100272: Foot_R
+    100274: Hair
+    100276: //RootNode
+    100278: Hand_L
+    100280: Hand_L_end
+    100282: Hand_R
+    100284: Head
+    100286: Hips
+    100288: Hwando
+    100290: Hwando 1
+    100292: Hwando.001
+    100294: Hwando.002
+    100296: Hwando.003
+    100298: Hwando.003_end
+    100300: Hwando.003_end_end
+    100302: L_Earring
+    100304: L_Earring2
+    100306: L_Earring2 1
+    100308: L_Earring2.001
+    100310: L_Earring2.002_1
+    100312: L_Earring2.002_2
+    100314: L_Earring2.002_2_end
+    100316: L_Earring2.002_3
+    100318: L_Earring2.002_3_end
+    100320: L_Earring2.003
+    100322: L_Earring2.003_end
+    100324: L_Earring2_2.003
+    100326: L_Earring2_2.004
+    100328: L_Earring2_2.005
+    100330: L_Earring2_2.006
+    100332: L_Earring2_2.006_end
+    100334: L_Earrings.001
+    100336: L_Earrings.002
+    100338: L_Earrings.003
+    100340: L_Earrings.004
+    100342: L_Earrings.005
+    100344: L_Earrings.006
+    100346: L_Earrings.007
+    100348: L_Earrings.008
+    100350: L_Earrings.008_end
+    100352: L_Earrings.008_end_end
+    100354: LHair_1.001
+    100356: LHair_1.002
+    100358: LHair_1.002_end
+    100360: LHair_2.001
+    100362: LHair_2.002
+    100364: LHair_2.003
+    100366: LHair_2.003_end
+    100368: Lower Arm_L
+    100370: Lower Arm_R
+    100372: Lower Leg_L
+    100374: Lower Leg_R
+    100376: Neck
+    100378: Paper fan
+    100380: Paper fan 1
+    100382: Paper fan_L.001
+    100384: Paper fan_L.002
+    100386: Paper fan_L.003
+    100388: Paper fan_L.004
+    100390: Paper fan_L.005
+    100392: Paper fan_L.005_end
+    100394: Paper fan_L.005_end_end
+    100396: Paper fan_R.001
+    100398: Paper fan_R.002
+    100400: Paper fan_R.003
+    100402: Paper fan_R.004
+    100404: Paper fan_R.005
+    100406: Paper fan_R.005_end
+    100408: Paper fan_R.005_end_end
+    100410: R_Earring
+    100412: R_Earring2
+    100414: R_Earring2 1
+    100416: R_Earring2.001
+    100418: R_Earring2.002_1
+    100420: R_Earring2.002_2
+    100422: R_Earring2.002_2_end
+    100424: R_Earring2.002_3
+    100426: R_Earring2.002_3_end
+    100428: R_Earring2.003
+    100430: R_Earring2.003_end
+    100432: R_Earring2_2.003
+    100434: R_Earring2_2.004
+    100436: R_Earring2_2.005
+    100438: R_Earring2_2.006
+    100440: R_Earring2_2.006_end
+    100442: R_Earrings.001
+    100444: R_Earrings.002
+    100446: R_Earrings.003
+    100448: R_Earrings.004
+    100450: R_Earrings.005
+    100452: R_Earrings.006
+    100454: R_Earrings.007
+    100456: R_Earrings.008
+    100458: R_Earrings.008_end
+    100460: R_Earrings.008_end_end
+    100462: RHair.001
+    100464: RHair.001_end
+    100466: Ribbon_L.001
+    100468: Ribbon_L.002
+    100470: Ribbon_L.003
+    100472: Ribbon_L.003_end
+    100474: Ribbon_L.003_end_end
+    100476: Ribbon_R.001
+    100478: Ribbon_R.002
+    100480: Ribbon_R.003
+    100482: Ribbon_R.003_end
+    100484: Ribbon_R.003_end_end
+    100486: Scabbard
+    100488: shoes
+    100490: Shoulder_L
+    100492: Shoulder_R
+    100494: Spine
+    100496: Toes_L
+    100498: Toes_L_end
+    100500: Toes_L_end_end
+    100502: Toes_L_end_end_end
+    100504: Toes_R
+    100506: Toes_R_end
+    100508: Toes_R_end_end
+    100510: Toes_R_end_end_end
+    100512: Upper Arm_L
+    100514: Upper Arm_R
+    100516: Upper Leg_L
+    100518: Upper Leg_R
+    400000: Armature
+    400002: B_Hair1.001
+    400004: B_Hair1.002
+    400006: B_Hair1.003
+    400008: B_Hair1.003_end
+    400010: B_Hair2.001
+    400012: B_Hair2.002
+    400014: B_Hair2.003
+    400016: B_Hair2.004
+    400018: B_Hair2.004_end
+    400020: BL_Hair1.001
+    400022: BL_Hair1.002
+    400024: BL_Hair1.003
+    400026: BL_Hair1.003_end
+    400028: BL_Hair2.001
+    400030: BL_Hair2.002
+    400032: BL_Hair2.003
+    400034: BL_Hair2.003_end
+    400036: BLayer Skirt_L1.001
+    400038: BLayer Skirt_L1.002
+    400040: BLayer Skirt_L1.003
+    400042: BLayer Skirt_L1.004
+    400044: BLayer Skirt_L1.005
+    400046: BLayer Skirt_L1.005_end
+    400048: BLayer Skirt_L2.001
+    400050: BLayer Skirt_L2.002
+    400052: BLayer Skirt_L2.003
+    400054: BLayer Skirt_L2.004
+    400056: BLayer Skirt_L2.005
+    400058: BLayer Skirt_L2.005_end
+    400060: BLayer Skirt_R1.001
+    400062: BLayer Skirt_R1.002
+    400064: BLayer Skirt_R1.003
+    400066: BLayer Skirt_R1.004
+    400068: BLayer Skirt_R1.005
+    400070: BLayer Skirt_R1.005_end
+    400072: BLayer Skirt_R2.001
+    400074: BLayer Skirt_R2.002
+    400076: BLayer Skirt_R2.003
+    400078: BLayer Skirt_R2.004
+    400080: BLayer Skirt_R2.005
+    400082: BLayer Skirt_R2.005_end
+    400084: BR_Hair1.001
+    400086: BR_Hair1.002
+    400088: BR_Hair1.003
+    400090: BR_Hair1.003_end
+    400092: BR_Hair2.001
+    400094: BR_Hair2.002
+    400096: BR_Hair2.003
+    400098: BR_Hair2.003_end
+    400100: BSkirt_L1.001
+    400102: BSkirt_L1.002
+    400104: BSkirt_L1.003
+    400106: BSkirt_L1.004
+    400108: BSkirt_L1.005
+    400110: BSkirt_L1.005_end
+    400112: BSkirt_L2.001
+    400114: BSkirt_L2.002
+    400116: BSkirt_L2.003
+    400118: BSkirt_L2.004
+    400120: BSkirt_L2.005
+    400122: BSkirt_L2.005_end
+    400124: BSkirt_R1.001
+    400126: BSkirt_R1.002
+    400128: BSkirt_R1.003
+    400130: BSkirt_R1.004
+    400132: BSkirt_R1.005
+    400134: BSkirt_R1.005_end
+    400136: BSkirt_R2.001
+    400138: BSkirt_R2.002
+    400140: BSkirt_R2.003
+    400142: BSkirt_R2.004
+    400144: BSkirt_R2.005
+    400146: BSkirt_R2.005_end
+    400148: Chest
+    400150: clothes
+    400152: Coat
+    400154: coat arm_L.001
+    400156: coat arm_L.002
+    400158: coat arm_L.003
+    400160: coat arm_L.003_end
+    400162: coat arm_R.001
+    400164: coat arm_R.002
+    400166: coat arm_R.003
+    400168: coat arm_R.003_end
+    400170: coat Chest_L.001
+    400172: coat Chest_L.002
+    400174: coat Chest_L.003
+    400176: coat Chest_L.004
+    400178: coat Chest_L.004_end
+    400180: coat Chest_R.001
+    400182: coat Chest_R.002
+    400184: coat Chest_R.003
+    400186: coat Chest_R.004
+    400188: coat Chest_R.004_end
+    400190: coat Lower Arm2_L.001
+    400192: coat Lower Arm2_L.002
+    400194: coat Lower Arm2_L.003
+    400196: coat Lower Arm2_L.004
+    400198: coat Lower Arm2_L.004_end
+    400200: coat Lower Arm2_R.001
+    400202: coat Lower Arm2_R.002
+    400204: coat Lower Arm2_R.003
+    400206: coat Lower Arm2_R.004
+    400208: coat Lower Arm2_R.004_end
+    400210: coat Lower Arm_L.001
+    400212: coat Lower Arm_L.002
+    400214: coat Lower Arm_L.003
+    400216: coat Lower Arm_L.004
+    400218: coat Lower Arm_L.005
+    400220: coat Lower Arm_L.005_end
+    400222: coat Lower Arm_R.001
+    400224: coat Lower Arm_R.002
+    400226: coat Lower Arm_R.003
+    400228: coat Lower Arm_R.004
+    400230: coat Lower Arm_R.005
+    400232: coat Lower Arm_R.005_end
+    400234: coat Upper Arm_L.001
+    400236: coat Upper Arm_L.002
+    400238: coat Upper Arm_L.003
+    400240: coat Upper Arm_L.004
+    400242: coat Upper Arm_L.005
+    400244: coat Upper Arm_L.005_end
+    400246: coat Upper Arm_R.001
+    400248: coat Upper Arm_R.002
+    400250: coat Upper Arm_R.003
+    400252: coat Upper Arm_R.004
+    400254: coat Upper Arm_R.005
+    400256: coat Upper Arm_R.005_end
+    400258: FHair_1.001
+    400260: FHair_1.002
+    400262: FHair_1.002_end
+    400264: FHair_2.001
+    400266: FHair_2.002
+    400268: FHair_2.002_end
+    400270: Foot_L
+    400272: Foot_R
+    400274: Hair
+    400276: //RootNode
+    400278: Hand_L
+    400280: Hand_L_end
+    400282: Hand_R
+    400284: Head
+    400286: Hips
+    400288: Hwando
+    400290: Hwando 1
+    400292: Hwando.001
+    400294: Hwando.002
+    400296: Hwando.003
+    400298: Hwando.003_end
+    400300: Hwando.003_end_end
+    400302: L_Earring
+    400304: L_Earring2
+    400306: L_Earring2 1
+    400308: L_Earring2.001
+    400310: L_Earring2.002_1
+    400312: L_Earring2.002_2
+    400314: L_Earring2.002_2_end
+    400316: L_Earring2.002_3
+    400318: L_Earring2.002_3_end
+    400320: L_Earring2.003
+    400322: L_Earring2.003_end
+    400324: L_Earring2_2.003
+    400326: L_Earring2_2.004
+    400328: L_Earring2_2.005
+    400330: L_Earring2_2.006
+    400332: L_Earring2_2.006_end
+    400334: L_Earrings.001
+    400336: L_Earrings.002
+    400338: L_Earrings.003
+    400340: L_Earrings.004
+    400342: L_Earrings.005
+    400344: L_Earrings.006
+    400346: L_Earrings.007
+    400348: L_Earrings.008
+    400350: L_Earrings.008_end
+    400352: L_Earrings.008_end_end
+    400354: LHair_1.001
+    400356: LHair_1.002
+    400358: LHair_1.002_end
+    400360: LHair_2.001
+    400362: LHair_2.002
+    400364: LHair_2.003
+    400366: LHair_2.003_end
+    400368: Lower Arm_L
+    400370: Lower Arm_R
+    400372: Lower Leg_L
+    400374: Lower Leg_R
+    400376: Neck
+    400378: Paper fan
+    400380: Paper fan 1
+    400382: Paper fan_L.001
+    400384: Paper fan_L.002
+    400386: Paper fan_L.003
+    400388: Paper fan_L.004
+    400390: Paper fan_L.005
+    400392: Paper fan_L.005_end
+    400394: Paper fan_L.005_end_end
+    400396: Paper fan_R.001
+    400398: Paper fan_R.002
+    400400: Paper fan_R.003
+    400402: Paper fan_R.004
+    400404: Paper fan_R.005
+    400406: Paper fan_R.005_end
+    400408: Paper fan_R.005_end_end
+    400410: R_Earring
+    400412: R_Earring2
+    400414: R_Earring2 1
+    400416: R_Earring2.001
+    400418: R_Earring2.002_1
+    400420: R_Earring2.002_2
+    400422: R_Earring2.002_2_end
+    400424: R_Earring2.002_3
+    400426: R_Earring2.002_3_end
+    400428: R_Earring2.003
+    400430: R_Earring2.003_end
+    400432: R_Earring2_2.003
+    400434: R_Earring2_2.004
+    400436: R_Earring2_2.005
+    400438: R_Earring2_2.006
+    400440: R_Earring2_2.006_end
+    400442: R_Earrings.001
+    400444: R_Earrings.002
+    400446: R_Earrings.003
+    400448: R_Earrings.004
+    400450: R_Earrings.005
+    400452: R_Earrings.006
+    400454: R_Earrings.007
+    400456: R_Earrings.008
+    400458: R_Earrings.008_end
+    400460: R_Earrings.008_end_end
+    400462: RHair.001
+    400464: RHair.001_end
+    400466: Ribbon_L.001
+    400468: Ribbon_L.002
+    400470: Ribbon_L.003
+    400472: Ribbon_L.003_end
+    400474: Ribbon_L.003_end_end
+    400476: Ribbon_R.001
+    400478: Ribbon_R.002
+    400480: Ribbon_R.003
+    400482: Ribbon_R.003_end
+    400484: Ribbon_R.003_end_end
+    400486: Scabbard
+    400488: shoes
+    400490: Shoulder_L
+    400492: Shoulder_R
+    400494: Spine
+    400496: Toes_L
+    400498: Toes_L_end
+    400500: Toes_L_end_end
+    400502: Toes_L_end_end_end
+    400504: Toes_R
+    400506: Toes_R_end
+    400508: Toes_R_end_end
+    400510: Toes_R_end_end_end
+    400512: Upper Arm_L
+    400514: Upper Arm_R
+    400516: Upper Leg_L
+    400518: Upper Leg_R
+    2100000: Hair_B
+    2100002: Hair_F
+    2100004: Hwando
+    2100006: shoes
+    2100008: Earring
+    2100010: Scabbard
+    2100012: Paper fan
+    2100014: Coat
+    2100016: clothes
+    2100018: Earring.002
+    4300000: Hair
+    4300002: Hwando
+    4300004: shoes
+    4300006: L_Earring
+    4300008: R_Earring
+    4300010: Scabbard
+    4300012: Paper fan
+    4300014: Coat
+    4300016: clothes
+    4300018: R_Earring2
+    4300020: L_Earring2
+    9500000: //RootNode
+    13700000: clothes
+    13700002: Coat
+    13700004: Hair
+    13700006: Hwando
+    13700008: L_Earring
+    13700010: L_Earring2
+    13700012: Paper fan
+    13700014: R_Earring
+    13700016: R_Earring2
+    13700018: Scabbard
+    13700020: shoes
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coat
+    second: {fileID: 2100000, guid: 436fb0a8ad7ead04e945f207249b553a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earring
+    second: {fileID: 2100000, guid: 5c3dc8ea3bf26c349aaf51fe2fe0bce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earring.002
+    second: {fileID: 2100000, guid: 5c3dc8ea3bf26c349aaf51fe2fe0bce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_B
+    second: {fileID: 2100000, guid: 21c0468b5ba50434d9d9a22e87daa70c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_F
+    second: {fileID: 2100000, guid: 1a024606e6aff2a47b53ce2415fa8970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hwando
+    second: {fileID: 2100000, guid: e8768bf7c5e090e469e0c28f59436769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paper fan
+    second: {fileID: 2100000, guid: e8768bf7c5e090e469e0c28f59436769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scabbard
+    second: {fileID: 2100000, guid: e8768bf7c5e090e469e0c28f59436769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clothes
+    second: {fileID: 2100000, guid: 72249eca131f2184880553680bda41df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes
+    second: {fileID: 2100000, guid: 6747abb8b7ecbe74e9fec1e73445afa2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ITSUKI_Coat_SubMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u30B3\u30FC\u30C8"
+    icon: {fileID: 2800000, guid: 71088bcd72ab3674c8679e1e8fed272f, type: 3}
+    type: 102
+    parameter:
+      name: Coat
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30B7\u30E3\u30C4"
+    icon: {fileID: 2800000, guid: fd5bc4af009eea8498464b18814ec626, type: 3}
+    type: 102
+    parameter:
+      name: Shirts
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30A4\u30F3\u30CA\u30FC"
+    icon: {fileID: 2800000, guid: ca58cf90625359f45a30f3a2ec0a2743, type: 3}
+    type: 102
+    parameter:
+      name: Inner
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
