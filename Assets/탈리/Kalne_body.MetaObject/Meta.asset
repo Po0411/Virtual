@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Meta
   m_EditorClassIdentifier: 
   ExporterVersion: UniVRM-0.128.2
-  Title: dd
-  Version: dd
-  Author: dd
+  Title: "\u3147"
+  Version: "\u3147"
+  Author: "\u3147"
   ContactInformation: 
   Reference: 
   Thumbnail: {fileID: 0}
