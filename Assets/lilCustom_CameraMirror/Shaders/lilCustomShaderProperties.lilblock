@@ -1,0 +1,58 @@
+
+        //----------------------------------------------------------------------------------------------------------------------
+        // Custom Properties
+        //_CustomVariable ("Custom Variable", Float) = 0
+        [lilToggle]     _CM_usual_0         ("í èÌ", Int) = 1
+        [lilToggle]     _CM_Camera_0         ("í èÌ", Int) = 1
+        [lilToggle]     _CM_Mirror_0        ("í èÌ", Int) = 1
+        [lilToggle]     _CM_CameraMirror_0         ("í èÌ", Int) = 1
+        [lilToggle]     _CM_usual_1         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_Camera_1         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_Mirror_1         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_CameraMirror_1         ("í èÌ", Int) = 0
+        [HDR][lilHDR]   _CM_MainColor_1           ("Color", Color) = (1,1,1,1)
+                        _CM_MainTex_1             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_EmissionColor_1           ("Color", Color) = (1,1,1,1)
+                        _CM_EmissionTex_1             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_OutlineColor_1           ("Color", Color) = (1,1,1,1)
+                        _CM_OutlineTex_1             ("Texture", 2D) = "white" {}
+        [lilToggle]     _CM_usual_2         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_Camera_2         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_Mirror_2         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_CameraMirror_2         ("í èÌ", Int) = 0
+        [HDR][lilHDR]   _CM_MainColor_2           ("Color", Color) = (1,1,1,1)
+                        _CM_MainTex_2             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_EmissionColor_2           ("Color", Color) = (1,1,1,1)
+                        _CM_EmissionTex_2             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_OutlineColor_2           ("Color", Color) = (1,1,1,1)
+                        _CM_OutlineTex_2             ("Texture", 2D) = "white" {}
+        
+        [lilToggleLeft] _CM_usual_Use         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_usual_invisible         ("í èÌ", Int) = 0
+
+        [lilToggleLeft] _CM_Camera_Use         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_Camera_invisible         ("í èÌ", Int) = 0
+        [HDR][lilHDR]   _CM_Camera_MainColor           ("Color", Color) = (1,1,1,1)
+                        _CM_Camera_MainTex             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_Camera_EmissionColor           ("Color", Color) = (1,1,1,1)
+                        _CM_Camera_EmissionTex             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_Camera_OutlineColor           ("Color", Color) = (1,1,1,1)
+                        _CM_Camera_OutlineTex             ("Texture", 2D) = "white" {}
+
+        [lilToggleLeft] _CM_Mirror_Use         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_Mirror_invisible         ("í èÌ", Int) = 0
+        [HDR][lilHDR]   _CM_Mirror_MainColor           ("Color", Color) = (1,1,1,1)
+                        _CM_Mirror_MainTex             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_Mirror_EmissionColor           ("Color", Color) = (1,1,1,1)
+                        _CM_Mirror_EmissionTex             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_Mirror_OutlineColor           ("Color", Color) = (1,1,1,1)
+                        _CM_Mirror_OutlineTex             ("Texture", 2D) = "white" {}
+
+        [lilToggleLeft] _CM_CameraMirror_Use         ("í èÌ", Int) = 0
+        [lilToggle]     _CM_CameraMirror_invisible         ("í èÌ", Int) = 0
+        [HDR][lilHDR]   _CM_CameraMirror_MainColor           ("Color", Color) = (1,1,1,1)
+                        _CM_CameraMirror_MainTex             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_CameraMirror_EmissionColor           ("Color", Color) = (1,1,1,1)
+                        _CM_CameraMirror_EmissionTex             ("Texture", 2D) = "white" {}
+        [HDR][lilHDR]   _CM_CameraMirror_OutlineColor           ("Color", Color) = (1,1,1,1)
+                        _CM_CameraMirror_OutlineTex             ("Texture", 2D) = "white" {}

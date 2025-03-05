@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MAT05
+  m_Shader: {fileID: 4800000, guid: e0edbf68d81d1f340ae8b110086b7063, type: 3}
+  m_Parent: {fileID: 2100000, guid: 78001b6e828942f42aa5952587cbd223, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _MTOON_OUTLINE_WORLD
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseColorMap:
+        m_Texture: {fileID: 2800000, guid: 3a92c1136a8a2224aa4cc0cd8debcbe8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 3a92c1136a8a2224aa4cc0cd8debcbe8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3a92c1136a8a2224aa4cc0cd8debcbe8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap2ndTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCapTex:
+        m_Texture: {fileID: 2800000, guid: dfc997b463092ad429fb5fd889acac57, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineTex:
+        m_Texture: {fileID: 2800000, guid: a038df0b1dc75174f84524e1d9e29a8a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BackfaceForceShadow: 1
+    - _BacklightBlur: 0.3
+    - _BacklightBorder: 0.35000002
+    - _FlipNormal: 1
+    - _MatCapBlendMode: 1
+    - _MatCapEnableLighting: 1
+    - _OutlineFixWidth: 1
+    - _OutlineWidth: 0.15
+    - _OutlineZTest: 4
+    - _RimBackfaceMask: 1
+    - _RimBlur: 0.05
+    - _RimBorder: 0.75
+    - _RimFresnelPower: 1
+    - _RimIndirBlur: 0.029999971
+    - _RimIndirBorder: 0.985
+    - _RimShadowMask: 1
+    - _RimVRParallaxStrength: 0
+    - _Shadow2ndBlur: 0.1
+    - _Shadow2ndBorder: 0.15
+    - _ShadowBlur: 0.13
+    - _ShadowBorder: 0.22
+    - _ShadowStrength: 0.53
+    - _ShadowStrengthMaskLOD: 0
+    - _UseBacklight: 1
+    - _UseMatCap: 1
+    - _UseMatCap2nd: 0
+    - _UseRim: 1
+    - _UseShadow: 1
+    m_Colors:
+    - _BacklightColor: {r: 0.5377358, g: 0.5377358, b: 0.5377358, a: 1}
+    - _BaseColor: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
+    - _Color: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
+    - _MatCap2ndColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MatCapColor: {r: 1, g: 1, b: 1, a: 0.61}
+    - _OutlineColor: {r: 0.45, g: 0.5499999, b: 0.65, a: 1}
+    - _OutlineLitColor: {r: 1, g: 0.28235295, b: 0, a: 0.2509804}
+    - _OutlineTexHSVG: {r: 0, g: 1, b: 1, a: 2}
+    - _RimColor: {r: 0.3962264, g: 0.38015306, b: 0.36407974, a: 1}
+    - _RimIndirColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Shadow2ndColor: {r: 0.46995372, g: 0.53477025, b: 0.8113208, a: 0}
+    - _ShadowColor: {r: 0.754717, g: 0.62067306, b: 0.508366, a: 1}
+  m_BuildTextureStacks: []

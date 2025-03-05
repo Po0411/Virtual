@@ -29,15 +29,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: b84f9f003804e24479094bbf216a3370, type: 3}
+        m_Texture: {fileID: 2800000, guid: 11e302b3206bff8479270f3aa6f152fc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: cf47a5978041a174eb5ccf050b69111d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 787d5b3cc139dc541a7171f7a1ca0770, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: bebaec8863ed4ac40959db1b8c21d57a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 68ab8863c27dade4699c9384c1274222, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineWidthTexture:
@@ -53,7 +53,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadeTexture:
-        m_Texture: {fileID: 2800000, guid: bebaec8863ed4ac40959db1b8c21d57a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 68ab8863c27dade4699c9384c1274222, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadingGradeTexture:
@@ -61,7 +61,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SphereAdd:
-        m_Texture: {fileID: 2800000, guid: 75673e0407065b7488dab1c1000bbea3, type: 3}
+        m_Texture: {fileID: 2800000, guid: b80c46764dbbb6d4da0b495eb38e79d3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _UvAnimMaskTexture:
@@ -99,9 +99,9 @@ Material:
     - _UvAnimScrollY: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.48627448, g: 0.2823529, b: 0.15686268, a: 1}
+    - _Color: {r: 0.48627448, g: 0.28235286, b: 0.15686265, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _OutlineColor: {r: 0.3376068, g: 0.111338355, b: 0, a: 1}
+    - _OutlineColor: {r: 0.33760676, g: 0.111338325, b: 0, a: 1}
     - _RimColor: {r: 0, g: 0, b: 0, a: 1}
     - _ShadeColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

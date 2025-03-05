@@ -1,0 +1,363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6485224972640505095
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4404726400885425032, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 078ce969c433b2a45858f91d92fb6771, type: 2}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.size
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[30].hash
+      value: 1596200600
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[30].name
+      value: null
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[31].hash
+      value: -1312189416
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[31].name
+      value: Fireaxe_On
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[32].hash
+      value: -304267766
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[32].name
+      value: AFK 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[33].hash
+      value: 962413785
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[33].name
+      value: seated_raise_hand-hold
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[34].hash
+      value: -710796399
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[34].name
+      value: vrc2_seated_point
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[35].hash
+      value: 1083353907
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[35].name
+      value: vrc2_seated_laugh
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[36].hash
+      value: -618450521
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[36].name
+      value: vrc2_seated_drum-loop
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[37].hash
+      value: 172075476
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[37].name
+      value: vrc2_seated_disbelief
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[38].hash
+      value: 1774229777
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[38].name
+      value: vrc2_seated_disapprove
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[39].hash
+      value: 1244035295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[39].name
+      value: seated_clap-loop
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[40].hash
+      value: -604667415
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[40].name
+      value: seated_shake_fist
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[41].hash
+      value: 711312144
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[41].name
+      value: BlendOut Stand
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[42].hash
+      value: 1242512264
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[42].name
+      value: Prepare Standing
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[43].hash
+      value: -1439543933
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[43].name
+      value: WaitForActionOrAFK
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[44].hash
+      value: 1745884183
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[44].name
+      value: AFK
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[45].hash
+      value: 1323262204
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[45].name
+      value: BlendOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[46].hash
+      value: 877246816
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[46].name
+      value: Afk Init
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[47].hash
+      value: 1056010405
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[47].name
+      value: Restore Tracking (stand)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[48].hash
+      value: -916604327
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[48].name
+      value: Prepare Sitting
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[49].hash
+      value: 527979128
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[49].name
+      value: BlendOut Sit
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[50].hash
+      value: 378145609
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[50].name
+      value: Restore Tracking (sit)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[51].hash
+      value: -741837223
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[51].name
+      value: Sit
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[100].hash
+      value: 111644211
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[100].name
+      value: Glove_On
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[101].hash
+      value: 31221616
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345357, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: animationHashSet.Array.data[101].name
+      value: Glove_Off
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000810903345394, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: fallbackStatus
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000812224202559, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000812846581675, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: colliders.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936000812846581675, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: colliders.Array.data[1]
+      value: 
+      objectReference: {fileID: 7813120654483279646}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6190848826185514778, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6739907485948328721, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6818872702957135264, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_Name
+      value: Kalne_default
+      objectReference: {fileID: 0}
+    - target: {fileID: 8105271142957212324, guid: 3136e49ca12532f439c2a7567acfac63,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 29
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3136e49ca12532f439c2a7567acfac63, type: 3}
+--- !u!114 &7813120654483279646 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3922039436556403225, guid: 3136e49ca12532f439c2a7567acfac63,
+    type: 3}
+  m_PrefabInstance: {fileID: 6485224972640505095}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1631200402, guid: 2a2c05204084d904aa4945ccff20d8e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
