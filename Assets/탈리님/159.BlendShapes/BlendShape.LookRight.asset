@@ -18,6 +18,6 @@ MonoBehaviour:
   Values:
   - RelativePath: Body
     Index: 187
-    Weight: 100
+    Weight: 50
   MaterialValues: []
   IsBinary: 0
