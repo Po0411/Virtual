@@ -15,9 +15,6 @@ MonoBehaviour:
   m_prefab: {fileID: 0}
   BlendShapeName: LookRight
   Preset: 15
-  Values:
-  - RelativePath: Body
-    Index: 187
-    Weight: 50
+  Values: []
   MaterialValues: []
   IsBinary: 0
